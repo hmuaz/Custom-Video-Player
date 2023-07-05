@@ -219,7 +219,7 @@ body, .container, .video-controls, .video-timer, .options{
     line-height: 30px;
   }
   .options button span{
-    font-size: 21px;
+    font-size: 21px; 
   }
   .options .video-timer, .progress-area span, .speed-options li{
     font-size: 12px;
